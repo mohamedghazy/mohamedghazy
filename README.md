@@ -2,13 +2,7 @@ Hi 👋 My name is Mohamed Ghazy
 ==============================
 
 Front-End developer with React.js
----------------------------------
-
-I have been learning to code since 3 years ago, after shifting from accounting
-
-* 🌍  I'm based in Cairo ,Egypt
-* ✉️  You can contact me at [mohameghzy@gmail.com](mailto:mohameghzy@gmail.com)
-* 🧠  I'm learning Next.js ,Redux toolKit and webpack
+--------------------------------
 
 <a href="https://www.twitter.com/mohamedghazy223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mohamedghazy223?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
